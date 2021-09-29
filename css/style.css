@@ -3,9 +3,37 @@
 
 /*********** Selettori classi*/
 
+/* Sezione header avatar*/
+
 .bg-success {
     background-color: #1abc9c;
 }
+
+.my_avatar img {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.line-star {
+    color: white;
+}
+
+.my_line {
+    display: inline-block;
+    color: white;
+    min-height: 3px;
+    width: 120px;
+}
+
+.my_star {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+
+
+
+
 
 
 /*********** Selettori ID*/
@@ -20,6 +48,8 @@
 
 /*********** Mediaquery*/
 
+/*
+
 @media screen and (max-width:540px) {
 
 }
@@ -31,3 +61,5 @@
 @media screen and (max-width:960px) {
 
 }
+
+*/
